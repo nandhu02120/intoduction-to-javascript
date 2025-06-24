@@ -40,16 +40,4 @@ else{
 console.log("LOOPS")
 for(x=1;x<10;x++){
     console.log(x)
-}
-
-
-
-
-
-
-
-
-
-
-
-//ijnkmn000000000000000000000000.00                              
+}                           
